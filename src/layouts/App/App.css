@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.App {
+	color: white;
+	background: url("./planets.svg") no-repeat;
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+h1 {
+	padding: 50px;
+}
